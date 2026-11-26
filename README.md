@@ -1,3 +1,7 @@
+[![make.fun · u-kiencx-sorry-i-heard-that-wrong-1858c729](https://make.fun/badge/u-kiencx-sorry-i-heard-that-wrong-1858c729.svg)](https://make.fun/bounty/u-kiencx-sorry-i-heard-that-wrong-1858c729?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-sorry-i-heard-that-wrong-1858c729)
+[![rank](https://make.fun/badge/u-kiencx-sorry-i-heard-that-wrong-1858c729/Ikball53/u-kiencx-sorry-i-heard-that-wrong-1858c729/rank.svg)](https://make.fun/bounty/u-kiencx-sorry-i-heard-that-wrong-1858c729/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-sorry-i-heard-that-wrong-1858c729)
+[![reward](https://make.fun/badge/u-kiencx-sorry-i-heard-that-wrong-1858c729/Ikball53/u-kiencx-sorry-i-heard-that-wrong-1858c729/reward.svg)](https://make.fun/bounty/u-kiencx-sorry-i-heard-that-wrong-1858c729?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-sorry-i-heard-that-wrong-1858c729)
+
 # Sorry, I Heard That Wrong
 
 make.fun one-liner entry for competition
